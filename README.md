@@ -26,7 +26,7 @@
 - **HTML5**
 - **CSS3**
 - **System Font Stack**
-*(Windows → Segoe UI, macOS → San Francisco, Android → Roboto))*
+*(Windows → Segoe UI, macOS → San Francisco, Android → Roboto)*
 - **Responsive Design Techniques**
 
 ---
