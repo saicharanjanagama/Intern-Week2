@@ -25,7 +25,8 @@
 
 - **HTML5**
 - **CSS3**
-- **Google Fonts (Poppins)**
+- **System Font Stack**
+*(Windows → Segoe UI, macOS → San Francisco, Android → Roboto))*
 - **Responsive Design Techniques**
 
 ---
