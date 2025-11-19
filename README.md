@@ -9,6 +9,17 @@
 
 ---
 
+## 🚀 Live Demo
+🔗 **View Project:** [🌐 Personal Portfolio (Week 2 Project)](https://saicharanjanagama.github.io/Intern-Week2/)
+
+📸 **Preview:**
+
+<p align="center">
+  <img src="Screenshot1.png" width="700" alt="Personal Portfolio Preview"/>
+</p>
+
+---
+
 ## 🎯 Features
 
 - 🎨 Modern UI with clean layout
@@ -28,13 +39,7 @@
 - **System Font Stack**
 *(Windows → Segoe UI, macOS → San Francisco, Android → Roboto)*
 - **Responsive Design Techniques**
-
----
-
-## 📸 Preview
-
-![Portfolio Preview](Screenshot1.png)  
-![Portfolio Preview](Screenshot2.png)  
+ 
 ---
 
 ## 🚀 How to View
