@@ -1,6 +1,7 @@
 <h1 align="center">🌐 Personal Portfolio (Week 2 Project)</h1>
 
-<p align="center"> <img src="https://img.shields.io/badge/Frontend-HTML5%20%7C%20CSS3-blue?style=for-the-badge" />
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Frontend-HTML5%20%7C%20CSS3-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Editor-VS%20Code-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Internship-Developers%20Arena-green?style=for-the-badge" />
 </p>
